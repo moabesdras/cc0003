@@ -10,6 +10,11 @@
 
 -1970s -> O inicio dos computadores pessoais foi em 1970. O Kenbak-1 foi o primeiro computador pessoal e foi desenvolvido por John Blankenbaker em 1971 na sua própria garagem. Kenbak-1 custava US$ 750 e usava interruptores no lugar de um teclado. Além disso, sua memória era capaz de armazenar apenas 256 caracteres. Blankenbaker vendeu 40 unidades do Kenbak-1 e descontinuou sua produção. Em 1973, quando o Kenbak-1 parou de ser produzido, surgiu o Micral N, um computador pessoal francês que incorporava uma tecnologia de economia de espaço e custava US$ 1700. Esses foram os primórdios dos computadores pessoais como os conhecemos hoje, a contribuição desses primeiros modelos, juntamente com a evolução da eletrônico foram muito importantes no desenvolvimentos dos computadores modernos.
 
+-1975s -> A fundação da Microsoft -> A história da computação teve em 1975 iniciada sua principal plataforma de computadores da época, Bill gates e paul Allen eram dois amigos que com a criação dessa empresa visavam desenvolver softwares em linguagem BASIC para compuitadores altair 8800 da IBM.
+
+-1976 -> A fundação da apple- Em 1976 foi criada uma das maiores empresas do mundo, a apple, do bilionário steve Jobs, tudo começou com a apple I, porém  ela nãofez tanto sucesso, mesmo assim os lucros com a apple I sustentou a empresa por alguns anos, aí veio a apple II que foi um tremendo sucesso de vendas, desta forma a empresa ficou cada vez mais conhecida , e lançou a linha de computadores com SO mac, e investiu bastante na fabricação de smartphones.
+
 -1990 -> O cientista da computação Tim Berners-Lee criou a World Wide Web, enquanto trabalhava em um laboratório suíço em 1990. A WWW foi basicamente a percusora da internet como a conhecemos e foi também Berners-Lee que introduziu o uso de URLs e o uso do protocolo de transferência de hipertexto - o HTML. Ainda no mesmo ano, Berners-Lee desenvolveu o primeiro browser e o primeiro website do mundo. Suas contribuições popularizaram a internet e tornaram mais fácil o uso de computadores pessoais por pessoas leigas e que nunca tiveram um treinamento tecnico de computação.
 
 -1998 -> A fundação do Google.
+
